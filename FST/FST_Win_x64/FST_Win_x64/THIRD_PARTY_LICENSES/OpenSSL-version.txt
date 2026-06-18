@@ -1,0 +1,2 @@
+https://github.com/clamwin/openssl
+OpenSSL 3.5.4 static library

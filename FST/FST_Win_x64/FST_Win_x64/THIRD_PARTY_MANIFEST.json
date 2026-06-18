@@ -1,0 +1,182 @@
+{
+  "schema": "fst-third-party-compliance-v1",
+  "generated_at_utc": "2026-06-18T10:14:57Z",
+  "components": [
+    {
+      "component": "THIRD_PARTY_NOTICES",
+      "license": "notice",
+      "kind": "notice",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\resources\\legal\\THIRD_PARTY_NOTICES.md",
+      "release_path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "b37bc268e51fb620f6d0f09065de9d3cd6a734a3b76657c255089726191ba891"
+    },
+    {
+      "component": "OPEN_SOURCE_SOURCE_OFFER",
+      "license": "notice",
+      "kind": "notice",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\resources\\legal\\OPEN_SOURCE_SOURCE_OFFER.md",
+      "release_path": "OPEN_SOURCE_SOURCE_OFFER.md",
+      "sha256": "b1e2e1db54691146725044f7e1bef842590d5ff144558e0cb6d29ec2aaacd012"
+    },
+    {
+      "component": "STC_PYTHON_BACKEND_NOTICES",
+      "license": "notice",
+      "kind": "notice",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\STC_PYTHON_BACKEND_NOTICES.md",
+      "release_path": "THIRD_PARTY_LICENSES/STC_PYTHON_BACKEND_NOTICES.md",
+      "sha256": "ffeb43b8c8d5254bf0d8ee3d190bfd733ad8c43b951f1b431497cd2fff4c0680"
+    },
+    {
+      "component": "ESP_SERIAL_FLASHER_NOTICES",
+      "license": "notice",
+      "kind": "notice",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\ESP_SERIAL_FLASHER_NOTICES.md",
+      "release_path": "THIRD_PARTY_LICENSES/ESP_SERIAL_FLASHER_NOTICES.md",
+      "sha256": "6f18944f8ca59f24461674a1cfa30ae7cc03eafd76e44433680de60e0bc349d0"
+    },
+    {
+      "component": "OpenSSL-version",
+      "license": "notice",
+      "kind": "notice",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\OpenSSL\\version.txt",
+      "release_path": "THIRD_PARTY_LICENSES/OpenSSL-version.txt",
+      "sha256": "27a2d2e25ef60c93dab63cb8ae33ee23b6d6cb8c4bf4f54b57f361236d00d1a7"
+    },
+    {
+      "component": "QWindowKit",
+      "license": "Apache-2.0",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\QWindowKit\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/QWindowKit-Apache-2.0.txt",
+      "sha256": "b7e5cd1e7e4b18efddf6f1f04c98efe60df27204ab56958bbc2ba9f26be7721b"
+    },
+    {
+      "component": "QWindowKit qmsetup",
+      "license": "MIT",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\QWindowKit\\qmsetup\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/QWindowKit-qmsetup-MIT.txt",
+      "sha256": "1eb09ba3b1deff5d9ca6cffcf4c4d7d06bc0effb19b1dca9267a53f5238ceb25"
+    },
+    {
+      "component": "QWindowKit syscmdline",
+      "license": "MIT",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\QWindowKit\\qmsetup\\src\\syscmdline\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/QWindowKit-syscmdline-MIT.txt",
+      "sha256": "ec43ca25c79effc6b7341ed9601cd4783b09dc2f6b40e5d823f2c949cabd37d4"
+    },
+    {
+      "component": "OpenSSL",
+      "license": "Apache-2.0",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\OpenSSL\\LICENSE.txt",
+      "release_path": "THIRD_PARTY_LICENSES/OpenSSL-Apache-2.0.txt",
+      "sha256": "ed72ce2b51ee58f117e5a021e2e04af158857f40269fbc03491f0b2a99dbcc96"
+    },
+    {
+      "component": "esp-serial-flasher",
+      "license": "Apache-2.0",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\esp-serial-flasher\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/esp-serial-flasher-Apache-2.0.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "component": "CPython embeddable runtime",
+      "license": "PSF-2.0",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\python-embed\\LICENSE.txt",
+      "release_path": "THIRD_PARTY_LICENSES/CPython-PSF-License.txt",
+      "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120"
+    },
+    {
+      "component": "stcgal",
+      "license": "MIT",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\stcgal\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/stcgal-MIT.txt",
+      "sha256": "db06768d4ffc39a6e52d8ed3f470e5e8a6ba5cd164e868a68b5a3f3b40f3a792"
+    },
+    {
+      "component": "pyserial",
+      "license": "BSD",
+      "kind": "license",
+      "source": "C:\\Workspace\\2026\\fan\\fst\\FST\\third_party\\python-embed\\Lib\\site-packages\\pyserial-3.5.dist-info\\LICENSE",
+      "release_path": "THIRD_PARTY_LICENSES/pyserial-BSD.txt",
+      "sha256": "5eed0fa51ad52fcee24d6138456cce67767f8a19cfdf90c4517422da2929d072"
+    },
+    {
+      "component": "Qt LGPL v3",
+      "license": "LGPL-3.0-only",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\6.8.3\\Src\\LICENSES\\LGPL-3.0-only.txt",
+      "release_path": "THIRD_PARTY_LICENSES/Qt-LGPL-3.0.txt",
+      "sha256": "ea7d049c7705dc13afc202dd18e1827f3484f8212fd3fa7b82fc4a0c363432c9"
+    },
+    {
+      "component": "Qt GPL v3",
+      "license": "GPL-3.0-only",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\6.8.3\\Src\\LICENSES\\GPL-3.0-only.txt",
+      "release_path": "THIRD_PARTY_LICENSES/Qt-GPL-3.0.txt",
+      "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+    },
+    {
+      "component": "Qt GPL v2",
+      "license": "GPL-2.0-only",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\6.8.3\\Src\\LICENSES\\GPL-2.0-only.txt",
+      "release_path": "THIRD_PARTY_LICENSES/Qt-GPL-2.0.txt",
+      "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
+    },
+    {
+      "component": "Qt copyright notice",
+      "license": "Qt notice",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Licenses\\Copyright.txt",
+      "release_path": "THIRD_PARTY_LICENSES/Qt-Copyright.txt",
+      "sha256": "d1f5b8f5eba2e9073463bc29b30572d84033f59e8d8057a95dff37c3414305b9"
+    },
+    {
+      "component": "GCC GPL v3",
+      "license": "GPL-3.0-only",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Tools\\mingw1310_64\\licenses\\gcc\\COPYING3",
+      "release_path": "THIRD_PARTY_LICENSES/GCC-GPL-3.0.txt",
+      "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+    },
+    {
+      "component": "GCC Runtime Library Exception",
+      "license": "GCC-exception",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Tools\\mingw1310_64\\licenses\\gcc\\COPYING.RUNTIME",
+      "release_path": "THIRD_PARTY_LICENSES/GCC-Runtime-Library-Exception.txt",
+      "sha256": "90077ba306ee9d8ed966cab1b4abd69b6e728acf08777283cc50283cd9503fa6"
+    },
+    {
+      "component": "MinGW-w64 runtime",
+      "license": "MinGW-w64 runtime",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Tools\\mingw1310_64\\licenses\\mingw-w64\\COPYING.MinGW-w64-runtime.txt",
+      "release_path": "THIRD_PARTY_LICENSES/MinGW-w64-runtime.txt",
+      "sha256": "e7a33fd8d164abd188ee629bbe3b07912419b29192a6bbfdce29de0ad4f0e7fb"
+    },
+    {
+      "component": "MinGW-w64",
+      "license": "MinGW-w64",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Tools\\mingw1310_64\\licenses\\mingw-w64\\COPYING.MinGW-w64.txt",
+      "release_path": "THIRD_PARTY_LICENSES/MinGW-w64.txt",
+      "sha256": "8b5b2c7c74842122f7a2479653dc612aa8e1c313bfec63808f90517ae13af40a"
+    },
+    {
+      "component": "winpthreads",
+      "license": "winpthreads",
+      "kind": "license",
+      "source": "C:\\Qt\\Qt6\\Tools\\mingw1310_64\\licenses\\winpthreads\\COPYING",
+      "release_path": "THIRD_PARTY_LICENSES/winpthreads.txt",
+      "sha256": "1c8d23063c3772b9435831410b31b51fef3d9cf2138a442dc367ef5d72239f67"
+    }
+  ]
+}
